@@ -1,0 +1,8 @@
+{
+  "name": "App Điểm Danh - Trường CĐ Bách Nghệ TP.HCM",
+  "description": "Ứng dụng điểm danh và quản lý danh sách sinh viên hiện đại, bắt mắt dành cho Trường Cao đẳng Bách Nghệ Thành phố Hồ Chí Minh. Tác giả: Thái Bình AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
